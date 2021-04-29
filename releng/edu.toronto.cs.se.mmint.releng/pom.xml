@@ -155,6 +155,10 @@
   	<module>../../plugins/Core-Extensions/MAVO/edu.toronto.cs.se.mmint.mavo.edit</module>
   	<module>../../plugins/Core-Extensions/MAVO/edu.toronto.cs.se.modelepedia.mavo.operator</module>
   	<module>../../plugins/Core-Extensions/MAVO/edu.toronto.cs.se.modelepedia.mavo.uml</module>
+    <module>../../plugins/Core-Extensions/ProductLine/edu.toronto.cs.se.mmint.productline</module>
+    <module>../../plugins/Core-Extensions/ProductLine/edu.toronto.cs.se.mmint.productline.design</module>
+    <module>../../plugins/Core-Extensions/ProductLine/edu.toronto.cs.se.mmint.productline.edit</module>
+    <module>../../plugins/Core-Extensions/ProductLine/edu.toronto.cs.se.mmint.productline.editor</module>
     <module>../../plugins/External/Lean/edu.toronto.cs.se.mmint.lean</module>
   	<module>../../plugins/External/Z3/edu.toronto.cs.se.modelepedia.z3</module>
   	<module>../../plugins/External/Z3/edu.toronto.cs.se.modelepedia.z3.operator</module>
@@ -234,6 +238,7 @@
     <module>../../examples/SAFECOMP21/edu.toronto.cs.se.mmint.example.safecomp21</module>
   	<module>../../features/edu.toronto.cs.se.mmint.feature</module>
   	<module>../../features/edu.toronto.cs.se.mmint.sdk.feature</module>
+    <module>../../features/edu.toronto.cs.se.mmint.productline.feature</module>
     <module>../../features/edu.toronto.cs.se.mmint.types.lts.feature</module>
     <module>../../features/edu.toronto.cs.se.mmint.types.simulink.feature</module>
     <module>../../features/edu.toronto.cs.se.mminta.feature</module>
